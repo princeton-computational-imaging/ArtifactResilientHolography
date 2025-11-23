@@ -1,0 +1,12 @@
+__pycache__/
+.DS_Store
+output*
+data/DIV2K*
+data/scenes_splitlohmann/mat/Castle*
+runs/
+models/
+*.pth
+*.pt
+*.log
+*.bak
+*.tmp
